@@ -1,2 +1,5 @@
+stages:
+  - stage: 1
+  name: 'deploy-infra'
 pool:
   vmImage: 'Ubuntu-16.04'
